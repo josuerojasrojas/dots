@@ -1,0 +1,4 @@
+.dotRow {
+  display: flex;
+  flex-direction: row;
+}
